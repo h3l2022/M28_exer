@@ -1,0 +1,11 @@
+.altura {
+    padding: 12px;
+    display: grid;
+    grid-template-columns: 1f 1f 1f;
+    gap: 5px;
+    width: 16px;
+}
+
+.botao {
+    background-color: rgb(121, 205, 200);
+}
